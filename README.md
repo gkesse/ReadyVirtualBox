@@ -7,7 +7,11 @@ Produit par
 
 # Sommaire
 * [Téléchargement](#téléchargement "Téléchargement") 
+* [Notions](#notions "Notions") 
 
 # Téléchargement
 * https://www.virtualbox.org/
 * https://www.debian.org/
+
+# Notions
+* [Créer une machine virtuelle](Notion/Machine_Virtuelle_Creer "Créer une machine virtuelle") 
