@@ -18,3 +18,4 @@ Produit par
 * mount /media/cdrom
 * sh /media/cdrom/VBoxLinuxAdditions.run
 * reboot
+apt-key adv --keyserver keys.gnupg.net --recv-keys 5C808C2B65558117

@@ -4,6 +4,11 @@ Le but de cette section est de vous apprendre à passer en mode super utilisateu
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
-# Procédure à suivre
+# Passer en mode super utilisateur
 
 * su
+
+# Ajouter un mode super utilisateur
+
+* adduser gerard sudo
+ 
