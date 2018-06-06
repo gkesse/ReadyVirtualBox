@@ -1,7 +1,7 @@
-# Apprendre la système d'images vectorielles avec Inskcape 
+# Apprendre la virtualisation matérielle avec VirtualBox  
 
-Inskcape est un outil de système d'images vectorielles.  
-Le but de ce tutoriel est de vous apprendre la système d'images vectorielles avec Inskcape.  
+VirtualBox est un outil de virtualisation matérielle avec VirtualBox .  
+Le but de ce tutoriel est de vous apprendre la virtualisation matérielle avec VirtualBox .  
 Produit par 
 [Gérard KESSE](https://github.com/gkesse/ "https://github.com/gkesse").
 
